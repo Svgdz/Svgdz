@@ -5,5 +5,6 @@ Running on caffeine, TypeScript, Python, and AI.
 ### 🔗 Linkz
 
 <p>
-  <a href="https://www.linkz.gg/svgd">📧 All my Linkz</a> &nbsp;|&nbsp;
+  <a href="mailto:russo@linkz.gg">📧 Email</a> &nbsp;|&nbsp;
+  <a href="https://www.linkz.gg/svgd">🔗 All my Linkz</a>
 </p>
