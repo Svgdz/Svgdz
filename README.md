@@ -15,6 +15,6 @@
 
 ### \$ connect
 
-* 📧 [churlee12@gmail.com](mailto:churlee12@gmail.com)
+* 📧 [russo@linkz.gg](mailto:churlee12@gmail.com)
 * 🔗 [All My Links](https://www.linkz.gg/svgd)
-* 🗾 [x.com/im\_roy\_lee](https://x.com/im_roy_lee)
+* 💻 [Linkz.gg](https://www.linkz.gg/)
