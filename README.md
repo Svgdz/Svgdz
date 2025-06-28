@@ -1,6 +1,7 @@
 Hi, I’m Russo. I code things, break things, then code them better. Bachelor’s in Data Science. 
 
 Running on caffeine, TypeScript, Python, and AI.
+
 ---
 
 ### 🔗 Links
