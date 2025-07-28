@@ -1,5 +1,5 @@
 ```
-> init Russo...
+> init Svgd...
 
 🧠 AI Engineer · ⚙️ Code Tinkerer · ☕️ Caffeine-Driven
 
